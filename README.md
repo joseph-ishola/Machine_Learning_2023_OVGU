@@ -1,5 +1,4 @@
 # Machine_Learning_2023_OVGU
 
-This repo is for the course Machine Learning in Chemical Engineering from OvGU Magdeburg
-
-Exercises and class tasks are solved and uploaded here
+##  Machine Learning for Chemical Engineering
+Welcome to the course on Machine Learning for Chemical Engineering! In this course, we will explore the fascinating intersection of machine learning and chemical engineering and understand how these two fields can synergistically work together to solve complex problems and optimize processes in the chemical industry.
