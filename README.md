@@ -10,7 +10,7 @@ Develop a kNN model for regression to predict the bioconcentration factor (BCF) 
 
 perform data cleaning if required and define corresponding variables for [inputs /features] and [corresponding output (Experimental values)]
 
-do cross validation with different k values and visualize (R2_square vs k and MSE vs k) to know what k value performs best on your testing data.
+Do cross-validation with different k values and visualize (R2_square vs. k and MSE vs. k) to know what k value performs best on your testing data.
 
 final trained model using all the data points with your k value
 
@@ -21,14 +21,14 @@ perform data cleaning if required and define corresponding variables for [inputs
 
 Input/Feature is Pressure and Output is Internal Energy for saturated vapor
 
-do cross validation with different values of degree of polynomial and visualize (R2_square vs degree of polynomial and MSE vs degree of polynomial) to know what 'degree of polynomial' value performs best on your testing data.
+Do cross-validation with different values of degree of polynomial and visualize (R2_square vs. degree of polynomial and MSE vs. degree of polynomial) to know what 'degree of polynomial' value performs best on your testing data.
 
-train your final model using all the data points with your 'degree of polynomial value
+train your final model using all the data points with your 'degree of polynomial value.
 
 ### Task 4
-Develop a Deep Neural Network model to predict the PE for the given input data in a Combine Cycle Power Plant (CCPP)
-input data ; Ambient Temperature (AT), V(V), Atmospheric Pressure (AP), Relative Humidity (RH), Exhaust Vacuum (V)
-output data ; Electric Power (PE).
+Develop a Deep Neural Network model to predict the PE for the given input data in a combined Cycle Power Plant (CCPP)
+input data: Ambient Temperature (AT), Atmospheric Pressure (AP), Relative Humidity (RH), Exhaust Vacuum (V)
+output data: Electric Power (PE).
 
 perform data cleaning if required and define corresponding variables for [inputs /features]  and [corresponding output (Experimental values)]
 
