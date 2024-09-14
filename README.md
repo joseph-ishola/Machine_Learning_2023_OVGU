@@ -38,7 +38,7 @@ Use Pytorch to perform a Feed Forward Neural Network.
 
 Do cross validation using GridsearchCv.
 
-Train your final model using all the available data points with optimized hyperparamters (found in best model of GridsearchCv.
+Train your final model using all the available data points with optimized hyperparameters (found in best model of GridsearchCv.
 
 Write code to save your final trained model and download the saved file with name 'your_name_final_model.h5' to submit along with this python file.
 
